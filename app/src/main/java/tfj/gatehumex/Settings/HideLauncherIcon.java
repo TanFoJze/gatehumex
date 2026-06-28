@@ -9,7 +9,7 @@ public class HideLauncherIcon {
     /**
      * 控制指定 Activity 的桌面图标是否显示
      * @param context      上下文
-     * @param activityClass 目标 Activity 的 Class（例如 MainActivity.class）
+     * @param activityClass 目标 Activity 的 Class
      * @param show          true 显示图标，false 隐藏图标
      */
     public static void setIconVisible(Context context, Class<?> activityClass, boolean show) {
