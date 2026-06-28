@@ -24,6 +24,17 @@
       <meta-data
           android:name="android.max_aspect"
           android:value="4.0"/>
+      
+        <activity
+            android:name=".Gt_QiDongQi.MainActivity"
+            android:label="@string/qdgtapp"
+            android:theme="@style/thememain000">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
 
     </application>
 	

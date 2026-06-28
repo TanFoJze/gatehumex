@@ -9,7 +9,7 @@ android {
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1
-        versionName "1.0"
+        versionName "🐦Gatehumex很高兴为您服务     20260628.000.000.00.01"
     }
     buildTypes {
         release {

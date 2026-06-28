@@ -1,4 +1,46 @@
 <resources>
     <string name="app_name">Gatehumex</string>
-    
+    <string name="qdgtapp">Gateh…[启动]</string>
+    <string name="initial_system_original_name_000">Gatehumex</string>
+    <string name="meaningless_easter_egg_string_000000">🐦你是如何发现该字符串的? 2025-12-7-1:36-pm</string>
+	<string name="meaningless_easter_egg_string_000001">🐦想制作AndroidX应用?"AIDE pro "制作安卓X应用就是在跟老八抢流量!"  2025-12-7-1:36-pm</string>
+	<string name="initial_system_original_name_001">🐦Gatehumex</string>
+	<string name="initial_system_original_name_002">Gatehumex🐦</string>
+	<string name="initial_system_original_name_003">Gatehumex 🐦 ₂₀₂₄</string>
+	<string name="initial_system_original_name_mini_000">ᴳᵃᵗᵉʰᵘᵐᵉˣ</string>
+	<string name="initial_system_original_name_mini_001">🐦ᴳᵃᵗᵉʰᵘᵐᵉˣ</string>
+	<string name="initial_system_original_name_mini_002">ᴳᵃᵗᵉʰᵘᵐᵉˣ🐦</string>
+	<string name="initial_system_original_name_mini_003">ᴳᵃᵗᵉʰᵘᵐᵉˣ🐦₂₀₂₄</string>
+	<string name="classic_blue_block_bird">🐦</string>
+	<string name="ctblbd">🐦</string>
+	<string name="initial_system_original_name_gothic_style_000">𝔊𝓪𝔱𝔢𝔥𝔲𝔪𝔢𝔵</string>
+	<string name="initial_system_original_name_gothic_style_000">🐦𝔊𝓪𝔱𝔢𝔥𝔲𝔪𝔢𝔵</string>
+	<string name="initial_system_original_name_gothic_style_000">𝔊𝓪𝔱𝔢𝔥𝔲𝔪𝔢𝔵🐦</string>
+	<string name="initial_system_original_name_gothic_style_000">🐦 𝔊𝓪𝔱𝔢𝔥𝔲𝔪𝔢𝔵 🐦</string>
+	<string name="picture_player">🖼️PhotoPlayer</string>
+	<string name="video_player">💿VideoPlayer</string>
+	<string name="url_browser">🔗URL</string>
+	<string name="local_website_browsing">🌐LC*HTML</string>
+	<string name="javascript_runner">🧩JavaScript</string>
+	<string name="multi_function_runner">📽️DisplayObjective</string>
+	<string name="toast_messenger">🪧Toast</string>
+	<string name="shadow_of_termux">🐦𝙏𝒂𝙚𝙧𝙢𝙪𝙭</string>
+	<string name="gts_terminal">GTShell</string>
+	<string name="air_string"></string>
+	<string name="air_string0"> </string>
+	<string name="air_string00">  </string>
+	<string name="air_string000">   </string>
+	<string name="gts_api_package_name_000">gts.gtehumex</string>
+	<string name="main_activity">MainActivity</string>
+	<string name="print_text">️PrintText</string>
+    <string name="gp">GatePanel</string>
+	<string name="crash">日志</string>
+	<string name="desktop">桌面</string>
+    <string name="ama000">安卓主活动</string>
+	<string name="uda000">语音助手</string>
+	
+	
+	
+	
+	
 </resources>
